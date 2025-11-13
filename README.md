@@ -38,4 +38,4 @@ LearnFree is an **offline learning app** created to help students and teachers a
 ## 🔗 Project LearnFree-App
 - Presentation Slides: [Add your Google Slides link here]  
 - Prototype Video: [Add your Canva or video link here]  
-- GitHub Repository: [https://github.com/Gladys334/LearnFree-App](https://github.com/Gladys334/LeaLearnFree-App
+- GitHub Repository: [https://github.com/Gladys334/LearnFree-App]
