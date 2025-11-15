@@ -1,41 +1,60 @@
+# ⭐ LearnFree — Offline Learning App
 
-# 📘 LearnFree Offline Learning App  
-
-**Designed for the Royal Bafokeng Community**  
-
-LearnFree is an **offline learning app** created to help students and teachers access study materials even without data or Wi-Fi. The goal is to make education more accessible to learners in areas with limited internet access.  
+LearnFree is an offline learning app that allows students to download lessons once and study anytime without the internet.  
+It reduces data costs and keeps learning going even during load-shedding or weak network areas.
 
 ---
 
-## 🎯 Purpose
-- To help learners continue studying offline.  
-- To make it easier for teachers to share learning materials.  
-- To reduce data costs for students.  
+## 🚀 My App Solution
+- Download lessons once  
+- Access all content offline  
+- Simple and friendly UI  
+- Optional AI assistance for topic explanations  
+- Works on low-cost devices  
 
 ---
 
-## ⚙️ How It Works
-- Learners can download notes and lessons when they have internet.  
-- Later, they can **study offline anytime**.  
-- The app also includes quizzes, notes, and study tips.  
+## 🌍 Benefits for My Community
+- Helps students study during load-shedding  
+- No internet needed after downloading content  
+- Supports rural and low-network areas  
+- Improves access to learning materials  
+- Makes studying easier, flexible, and affordable  
 
 ---
 
-## 💡 Features
-- Offline access to materials  
-- Easy navigation and simple design  
-- AI-powered tutorial support (requires internet)  
-- Free to use for all students  
+## 👤 About Me
+My name is **Gladys Gopolang Masia**, an aspiring software developer passionate about improving education through technology.
 
 ---
 
-## 👩‍💻 About the Developer
-**Created by:** Gladys Gopolang Masia  
-**Program:** Royal Impact CodeLab Prototype Challenge  
+## 📘 What I Learned
+- Basics of full-stack web development  
+- Building with MongoDB, Express, React, and Node.js  
+- Fundamentals of AI and machine learning  
+- Designing and developing simple apps  
+- Using technology to solve real community problems  
 
 ---
 
-## 🔗 Project LearnFree-App
-- Presentation Slides: [Add your Google Slides link here]  
-- Prototype Video: [Add your Canva or video link here]  
-- GitHub Repository: [https://github.com/Gladys334/LearnFree-App]
+## 🎯 Why I Want to Join Royal Bafokeng CodeLab
+I want to grow as a developer, gain mentorship, improve my skills, and build real solutions that solve community challenges.  
+CodeLab will help me take my abilities to the next level and turn LearnFree into a real tool that supports learners.
+
+---
+
+## 💡 The Problem I Want to Solve
+- High data costs  
+- Load-shedding interruptions  
+- Weak network coverage  
+- Limited study resources at home  
+
+---
+
+## 🔗 Project Links
+**GitHub Repository:**  
+https://github.com/Gladys334/LearnFree-App  
+
+**Google Slides Presentation:**  
+([Add your link here](https://docs.google.com/document/d/16Qtsbl58kxKe_fkDhepbXoZBEQh_rz31ermwxdviVkU/edit?usp=driLearnFree-Appnva Prototype:**  
+(Add your link heheree
