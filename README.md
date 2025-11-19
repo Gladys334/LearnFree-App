@@ -1,60 +1,76 @@
-# ⭐ LearnFree — Offline Learning App
+⭐ LearnFree App - Royal Bafokeng CodeLab 2025 Project
 
-LearnFree is an offline learning app that allows students to download lessons once and study anytime without the internet.  
-It reduces data costs and keeps learning going even during load-shedding or weak network areas.
+This repository contains LearnFree, an educational mobile app prototype i created for my Royal Bafokeng CodeLab 2025 Software and AI Engineering registration.
+The project include my app design, problem research, prototype screens, and full project explanation.
 
----
 
-## 🚀 My App Solution
-- Download lessons once  
-- Access all content offline  
-- Simple and friendly UI  
-- Optional AI assistance for topic explanations  
-- Works on low-cost devices  
+📱App Name
+LearnFree - AI-Powered Study Assistant
 
----
 
-## 🌍 Benefits for My Community
-- Helps students study during load-shedding  
-- No internet needed after downloading content  
-- Supports rural and low-network areas  
-- Improves access to learning materials  
-- Makes studying easier, flexible, and affordable  
+🌀 Problem Statement
 
----
+Many students struggle with:
 
-## 👤 About Me
-My name is **Gladys Gopolang Masia**, an aspiring software developer passionate about improving education through technology.
+*staying consistent when studying
+*understanding difficult concepts
+*managing study schedules
+*accessing learning when there is no internet
+*staying motivated
 
----
+Students in rural and township face these challenges even more because resources are limited.
 
-## 📘 What I Learned
-- Basics of full-stack web development  
-- Building with MongoDB, Express, React, and Node.js  
-- Fundamentals of AI and machine learning  
-- Designing and developing simple apps  
-- Using technology to solve real community problems  
+LearnFree is designed to solve these educational problems.
 
----
+💡 LearnFree App Solution
 
-## 🎯 Why I Want to Join Royal Bafokeng CodeLab
-I want to grow as a developer, gain mentorship, improve my skills, and build real solutions that solve community challenges.  
-CodeLab will help me take my abilities to the next level and turn LearnFree into a real tool that supports learners.
+LearnFree helps students:
 
----
+*Track their learning progress
+*Access lessons offline
+*Get AI-powered study help
+*Download learning materials
+*Stay motivated and organized
+*Improve understanding of school subjects
+*Study at their own pace
 
-## 💡 The Problem I Want to Solve
-- High data costs  
-- Load-shedding interruptions  
-- Weak network coverage  
-- Limited study resources at home  
+The app is lightweight, accessible and designed for students with limited internet access.
 
----
 
-## 🔗 Project Links
-**GitHub Repository:**  
-https://github.com/Gladys334/LearnFree-App  
+💻 LearnFree Prototype Screens
 
-**Google Slides Presentation:**  
-([Add your link here](https://docs.google.com/document/d/16Qtsbl58kxKe_fkDhepbXoZBEQh_rz31ermwxdviVkU/edit?usp=driLearnFree-Appnva Prototype:**  
-(Add your link heheree
+My LearnFree prototype includes:
+
+*Home screen
+*Lessons screen
+*Quiz screen
+*Progress screen
+*AI study help (offline mode)
+*Download materials screen
+*Login and Signup screen
+*Smooth UX navigation screens
+
+
+
+
+🔗 Project Portfolio Links
+
+💻Github Portfolio:
+https://github.com/Gladys334/LearnFree-App
+
+💡 Presentation Slides (Google Slides) link:
+
+https://docs.google.com/presentation/d/14GKX0ldUiO7n6YP65Mh15rpXLSSvZZ2jGhPYEFPE0d4/edit?usp=drivesdk
+
+📱 LearnFree (Canva Slides) link:
+
+https://www.canva.com/design/DAG49zdtc3A/UovuuZRViGGxEu6EZLDeKQ/edit
+
+🎞️ Prototype video (Canva video challenge) link:
+
+https://www.canva.com/design/DAG4_DtuChA/y4_62ubbw8fbfq18nwbBbw/edit?utm_content=DAG4_DtuChA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+🎨 Google Docs link:
+
+https://docs.google.com/document/d/16Qtsbl58kxKe_fkDhepbXoZBEQh_rz31ermwxdviVkU/edit?presentation
+
