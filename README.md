@@ -76,21 +76,6 @@ https://docs.google.com/document/d/16Qtsbl58kxKe_fkDhepbXoZBEQh_rz31ermwxdviVkU/
 
 
 
-🙎 About Me
-My name is Gladys Gopolang Masia.
-I am passionate about technology, education, and solving real problems with software.
-LearnFree is atoroject i created to help students like me and others in my community learn easily and effectively.
-
-🎯Why I want to join Bafokeng CodeLab
-
-I want to study Software and AI Engineering so i can:
-
-*Build applications that help students and communities.
-*Learn advanced programming and AI skills.
-*Grow into a professional developer.
-*Help close the digital divide in education.
-
-Royal Bafokeng will help me grow, learn, and become a future tech leader.LearnFreearnFre
 
 
 
