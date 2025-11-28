@@ -64,11 +64,7 @@ https://docs.google.com/presentation/d/14GKX0ldUiO7n6YP65Mh15rpXLSSvZZ2jGhPYEFPE
 
 📱 LearnFree (Canva Slides) link:
 
-https://www.canva.com/design/DAG49zdtc3A/UovuuZRViGGxEu6EZLDeKQ/edit
-
-🎞️ Prototype video (Canva video challenge) link:
-
-https://www.canva.com/design/DAG4_DtuChA/y4_62ubbw8fbfq18nwbBbw/edit?utm_content=DAG4_DtuChA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAG49zdtc3A/UovuuZRVUovuuZRViGGxEu6EZLDeKQ
 
 🎨 Google Docs link:
 
